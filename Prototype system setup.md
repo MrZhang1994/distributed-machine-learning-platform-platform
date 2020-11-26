@@ -362,3 +362,8 @@ UUID                                    NAME            NAMESPACE       REVISION
 cc260af3-4c08-4d4a-ba72-893ec0e3fd44    fate-10000      fate-10000      1               Running fate    v1.4.4          132m
 ```
 
+# Dashboard 
+
+Kubernetes dashboard is a web-based GUI user interface, supported by official Kubernetes team. 
+
+To access, visit website `https://202.121.180.26:31001/`. Choose token login. The token is stored in file *tokenDash.txt* on `master` server. 
